@@ -1,3 +1,4 @@
+# config-dev
 spring:
   application:
     name:  cloud-config-center #注册进Eureka服务器的微服务名
